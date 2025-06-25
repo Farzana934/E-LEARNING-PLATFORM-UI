@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Course Detail</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <header>
+    <nav>
+      <h1>eLearn</h1>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="courses.html">Courses</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="course-detail">
+      <h2>Intro to HTML & CSS</h2>
+      <video controls width="100%" id="course-video">
+        <source src="assets/video.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <div class="progress-bar">
+        <label for="progress">Progress</label>
+        <progress id="progress" value="0" max="100"></progress>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 eLearn Platform</p>
+  </footer>
+</body>
+</html>
+
