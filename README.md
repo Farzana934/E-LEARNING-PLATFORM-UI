@@ -31,3 +31,7 @@ This project can be run and tested directly in Visual Studio Code using the Live
 This e-learning front end can be extended by adding features such as login pages, video libraries, certificate downloads, or saving user progress with localStorage or APIs. As it stands, the project provides a clean, functional base that demonstrates responsive layout design, simple video integration, and real-time user interaction with HTML, CSS, and JavaScript only.
 
 *OUTPUT*:
+
+![Image](https://github.com/user-attachments/assets/2c640473-ee37-482b-b947-964597d888a6)
+
+![Image](https://github.com/user-attachments/assets/31a5fa1f-60e2-48f7-8e2e-ebeceaaab24f)
